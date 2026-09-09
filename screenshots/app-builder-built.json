@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Cascade Bore",
+      "hasCanvas": true,
+      "bodyTextLen": 1716,
+      "bodyTextHash": "a5e6a20267592c65a506152784c74345f5d848b70f1d541f5a366d0abca9a3bd",
+      "bodyTextPrefix": "INTERIOR BALLISTICS Cascade Bore Model Layout preset V-3 Compact",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Cascade Bore",
+      "hasCanvas": true,
+      "bodyTextLen": 1061,
+      "bodyTextHash": "fd82dddef7704c1ba97546d59790ffdf0d29d00ba7530f73d736c4b2a77ed325",
+      "bodyTextPrefix": "INTERIOR BALLISTICS Cascade Bore 0 µs / 1.79 ms 200× 500× 1000× ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
